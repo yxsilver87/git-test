@@ -8,9 +8,13 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
     }
+    //test git
     public void test(){
         int i = 0;
         i +=10;
+    }
+    public void test2(){
+
     }
 }
 
